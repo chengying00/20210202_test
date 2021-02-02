@@ -5,3 +5,7 @@ for i in range(10):
 
 a = [j for j in range(100)]
 print(a)
+
+
+def test():
+    print("这个三测试！")
